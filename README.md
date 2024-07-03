@@ -1,2 +1,8 @@
 # E_com_sales_Dashboard
 Power BI 
+
+**Project :** Analyzed E_commerce sales data created interactive dashboard using Power BI.
+
+**Steps :** Used complex parameters to drill down in worksheet customization using Fileters & Slicers.
+
+
